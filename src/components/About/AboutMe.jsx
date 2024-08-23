@@ -25,7 +25,7 @@ const AboutMe = () => {
       {/* Two-Part Layout Below */}
       <div className="flex flex-col md:flex-row w-full mb-20">
         <div className="md:w-1/2 h-1/2 md:h-auto p-12">
-          <img src='https://dtzulyujzhqiu.cloudfront.net/maximumonegreateratlanta5012/profiles/1710719786.jpg' alt="About Us" className="object-cover w-full h-full" />
+          <img src="https://dtzulyujzhqiu.cloudfront.net/maximumonegreateratlanta5012/profiles/1710719786.jpg" alt="About Us" className="object-cover w-full h-full" />
         </div>
         <div className="md:w-1/2 h-auto bg-white flex flex-col justify-center p-8 md:p-16">
           {/* AboutMe Detailed Start */}
